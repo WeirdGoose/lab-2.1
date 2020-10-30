@@ -1,0 +1,5 @@
+VAR
+	driveSMFB : FB_DriveStateMachine := (0);
+	doorSMFB : FB_DoorStateMachine := (0);
+	ledSMFB : FB_LedStateMachine := (0);
+END_VAR
